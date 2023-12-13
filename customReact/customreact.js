@@ -27,3 +27,13 @@ const reactElement ={
 }
 const container=document.querySelector('#root');
 reactRender(reactElement, container)
+
+
+/*
+how react Render ?
+
+https://dev.to/mateo_garcia/understanding-rendering-in-react-i5i
+
+https://github.com/acdlite/react-fiber-architecture
+
+*/
